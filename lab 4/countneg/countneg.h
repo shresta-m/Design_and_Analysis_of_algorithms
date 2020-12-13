@@ -1,0 +1,1 @@
+void count1(int b,int e,int a[],int *count);

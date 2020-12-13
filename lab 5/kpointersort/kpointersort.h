@@ -1,0 +1,1 @@
+void ksort(int a[][10],int b[],int num,int k,int n[]);

@@ -1,0 +1,1 @@
+void minmax(int a[],int n,int *min,int *max);
